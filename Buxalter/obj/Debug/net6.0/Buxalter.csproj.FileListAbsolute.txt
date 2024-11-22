@@ -1,0 +1,14 @@
+C:\Users\Максим\source\repos\Buxalter\Buxalter\bin\Debug\net6.0\Buxalter.exe
+C:\Users\Максим\source\repos\Buxalter\Buxalter\bin\Debug\net6.0\Buxalter.deps.json
+C:\Users\Максим\source\repos\Buxalter\Buxalter\bin\Debug\net6.0\Buxalter.runtimeconfig.json
+C:\Users\Максим\source\repos\Buxalter\Buxalter\bin\Debug\net6.0\Buxalter.dll
+C:\Users\Максим\source\repos\Buxalter\Buxalter\bin\Debug\net6.0\Buxalter.pdb
+C:\Users\Максим\source\repos\Buxalter\Buxalter\obj\Debug\net6.0\Buxalter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\Buxalter\Buxalter\obj\Debug\net6.0\Buxalter.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Buxalter\Buxalter\obj\Debug\net6.0\Buxalter.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Buxalter\Buxalter\obj\Debug\net6.0\Buxalter.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Buxalter\Buxalter\obj\Debug\net6.0\Buxalter.dll
+C:\Users\Максим\source\repos\Buxalter\Buxalter\obj\Debug\net6.0\refint\Buxalter.dll
+C:\Users\Максим\source\repos\Buxalter\Buxalter\obj\Debug\net6.0\Buxalter.pdb
+C:\Users\Максим\source\repos\Buxalter\Buxalter\obj\Debug\net6.0\Buxalter.genruntimeconfig.cache
+C:\Users\Максим\source\repos\Buxalter\Buxalter\obj\Debug\net6.0\ref\Buxalter.dll
